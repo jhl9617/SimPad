@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{9A8B29AD-4A30-2D75-A81A-6AFE3CABE1D2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/begin/ButtonToStart.cs">
+    <Files>
+      <File FileName="Assets/scripts/begin/uimanger.cs" Line="10" Column="9" />
+      <File FileName="Assets/scripts/begin/ButtonToCredit.cs" />
+      <File FileName="Assets/scripts/credit/tomain.cs" />
+      <File FileName="Assets/scripts/begin/ButtonToStart.cs" Line="10" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SimPad" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True">
+                <Node name="begin" expanded="True">
+                  <Node name="ButtonToStart.cs" selected="True" />
+                </Node>
+                <Node name="credit" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="848c373e-eea2-4484-8647-5427c1fc0daf" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
