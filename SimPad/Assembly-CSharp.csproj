@@ -67,6 +67,7 @@
     <Compile Include="Assets\scripts\begin\ButtonToStart.cs" />
     <Compile Include="Assets\scripts\begin\uimanger.cs" />
     <Compile Include="Assets\scripts\credit\tomain.cs" />
+    <Compile Include="Assets\scripts\start\ButtonToMenu.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/ijongha/Desktop/SimPad Project/SimPad/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
