@@ -7,7 +7,7 @@ using UnityEngine.SceneManagement;
 public class ButtonToMenu : MonoBehaviour
 {
 
-    public void OnClickmain()
+    public void OnClickStart()
     {
         SceneManager.LoadScene(0);
     }
