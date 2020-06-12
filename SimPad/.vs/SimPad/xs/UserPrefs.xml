@@ -1,12 +1,13 @@
 ﻿<Properties StartupConfiguration="{9A8B29AD-4A30-2D75-A81A-6AFE3CABE1D2}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/start/ButtonToMenu.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/start/btnFX.cs">
     <Files>
       <File FileName="Assets/scripts/begin/ButtonToCredit.cs" Line="16" Column="35" />
       <File FileName="Assets/scripts/credit/tomain.cs" />
-      <File FileName="Assets/scripts/begin/ButtonToStart.cs" Line="1" Column="1" />
-      <File FileName="Assets/scripts/GameRootScript.cs" Line="10" Column="5" />
-      <File FileName="../../../nugsa/growmawang/Assets/Script/Manager.cs" Line="52" Column="25" />
+      <File FileName="Assets/scripts/begin/ButtonToStart.cs" />
+      <File FileName="Assets/scripts/GameRootScript.cs" />
+      <File FileName="../../../nugsa/growmawang/Assets/Script/Manager.cs" />
       <File FileName="Assets/scripts/start/ButtonToMenu.cs" Line="8" Column="2" />
+      <File FileName="Assets/scripts/start/btnFX.cs" Line="18" Column="35" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,7 +18,7 @@
                 <Node name="begin" expanded="True" />
                 <Node name="credit" expanded="True" />
                 <Node name="start" expanded="True">
-                  <Node name="ButtonToMenu.cs" selected="True" />
+                  <Node name="btnFX.cs" selected="True" />
                 </Node>
               </Node>
             </Node>
@@ -28,7 +29,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="135545b1-cb67-48b0-85e6-dc5b1e52c98d" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9780d76d-dc83-4363-bdff-52b4c34d20df" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
